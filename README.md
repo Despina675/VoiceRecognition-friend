@@ -2,6 +2,7 @@
 # Voice Assistant in Python 🎙️🤖
 
 This is a fun, voice-activated Python assistant that listens, understands, and responds to your voice commands using the power of speech recognition and text-to-speech technologies. It's like having a mini-JARVIS on your machine!
+Ideal for when you get bored. It also plays my favorite song! 😇
 
 ## Features 🚀
 
